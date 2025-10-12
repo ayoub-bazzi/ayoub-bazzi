@@ -1,9 +1,9 @@
 # 💫 About Me:
-
-Hi, I’m Ayoub Bazzi, a Back-End Developer who loves solving complex problems and writing clean, efficient code.
-My superpower? Debugging code with just a glance and a cup of coffee. ☕
-I believe that “Code is like humor. when you have to explain it, it’s bad.”
-
+<br>
+Hi, I’m Ayoub Bazzi, a Back-End Developer who loves solving complex problems and writing clean, efficient code.<br>
+My superpower? Debugging code with just a glance and a cup of coffee. ☕<br>
+I believe that “Code is like humor. when you have to explain it, it’s bad.”<br>
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/contact-ayoubbazzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.ayoubbazzi@gmail.com) 
 
