@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hi, I’m **Ayoub Bazzi** — a **Back-End Developer** passionate about building robust, efficient, and scalable systems.  
-I love solving complex problems, optimizing performance, and crafting clean, maintainable code.  
-
-☕ Debugging with just a glance (and a cup of coffee) is my kind of superpower.  
-💡 “Code is like humor — when you have to explain it, it’s bad.”
+<br>
+Hi, I’m Ayoub Bazzi, a Back-End Developer who loves solving complex problems and writing clean, efficient code.<br>
+My superpower? Debugging code with just a glance and a cup of coffee. ☕<br>
+I believe that “Code is like humor. when you have to explain it, it’s bad.”<br>
 
 ---
 
