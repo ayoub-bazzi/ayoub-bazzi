@@ -9,7 +9,7 @@ I love solving complex problems, optimizing performance, and crafting clean, mai
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-ayoubbazzi)<br>
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.ayoubbazzi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=contact.ayoubbazzi@gmail.com)
 
 ---
 
