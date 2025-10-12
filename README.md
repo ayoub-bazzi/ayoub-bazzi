@@ -1,11 +1,8 @@
 # 💫 About Me:
-const ME = {
-name: "Ayoub BAZZI",
-title: "Back-End Developer",
-superpower: "Debugging code with just a glance and a cup of coffee",
-motto: "Code is like humor. When you have to explain it, it's bad.",
-};
-console.log(ME);
+
+Hi, I’m Ayoub Bazzi, a Back-End Developer who loves solving complex problems and writing clean, efficient code.
+My superpower? Debugging code with just a glance and a cup of coffee. ☕
+I believe that “Code is like humor. when you have to explain it, it’s bad.”
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/contact-ayoubbazzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.ayoubbazzi@gmail.com) 
