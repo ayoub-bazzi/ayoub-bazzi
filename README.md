@@ -8,8 +8,13 @@ I love solving complex problems, optimizing performance, and crafting clean, mai
 ---
 
 ## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contact-ayoubbazzi) 🔗 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=contact.ayoubbazzi@gmail.com) 📧
+<a href="https://www.linkedin.com/in/contact-ayoubbazzi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&to=contact.ayoubbazzi@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+</a>
 
 ---
 
